@@ -1,4 +1,4 @@
-$Url = "https://github.com/ChrisDemon0811/Tool/releases/download/v2/setup.exe"
+$Url = "https://github.com/ChrisDemon0811/Tool/releases/v2/setup.exe"
 $Output = "$env:TEMP\setup.exe"
 
 Write-Host "Đang tải phần mềm..."
